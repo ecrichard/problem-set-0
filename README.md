@@ -1,6 +1,7 @@
 This is a problem set to help you learn how to use loops. Make sure you use the correct loop if specified.
 How this will be graded: 5 points per problem. To earn each point the method will have to print the correct thing based on the input.
 If what is printed out is wrong you don't get the point. If it ever crashed then you get no points for that problem.
+Start by making a new java project called pset0 and adding the skeleton code file to the src.
 
 1. Create a method that uses a while loop to print numbers from 0 to a positive input(inclusive). Use a while loop.
 For example, lister(3); would print: 
